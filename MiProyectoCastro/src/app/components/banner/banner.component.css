@@ -1,0 +1,9 @@
+img {
+    display: block;
+    margin: auto;
+    height: 300px;
+}
+
+div#divbanner {
+    background-color: brown;
+}
